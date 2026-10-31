@@ -35,7 +35,6 @@ Stop the forwarder before you start a real API on port 5080. Response shapes, tr
 ```bash
 pnpm dev
 ```
-
 - App: [http://localhost:3000](http://localhost:3000)
 - API the UI calls: [http://localhost:5080/api/v1](http://localhost:5080/api/v1)
 
